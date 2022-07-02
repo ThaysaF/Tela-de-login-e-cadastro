@@ -1,5 +1,5 @@
 # Tela-de-login-e-cadastro
-Tela de login e cadastro
+Tela de login
 <!doctype html>
 
 	<head>
